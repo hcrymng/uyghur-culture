@@ -1,2 +1,2 @@
-# uygur-culture
+# Uyghur-culture
 An informative website about Uyghurs
